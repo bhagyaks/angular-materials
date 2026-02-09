@@ -1,6 +1,26 @@
-# AmazingAnimalPaintings
+# Angular Material E-Commerce
+An E‑Commerce web application built using Angular and Angular Material, demonstrating modern UI design with sorting and filtering features for product listings.
+
+This project is ideal for learning and showcasing:
+
+Angular Material components
+
+Clean UI structure
+
+Product sort & filter logic
+
+Scalable Angular architecture
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.2.
+
+## Features
+
+✔️ Product listing using Angular Material cards
+✔️ Sort products by price
+✔️ Filter products by name
+✔️ Responsive Material Design layout
+✔️ Modular and reusable components
+✔️ Easy to extend for real-world e‑commerce use cases
 
 ## Development server
 
